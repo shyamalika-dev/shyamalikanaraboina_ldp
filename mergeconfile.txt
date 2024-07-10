@@ -1,5 +1,4 @@
  HEAD
 conflict message in main master branch1 in merge conflict concept
-=======
 conflict message in merge-conflict-branch1
->>>>>>> merge-conflict-branch1
+merge-conflict-branch1
